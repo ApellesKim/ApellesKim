@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ApellesKim
-- 👀 I’m interested in computer science & mechanical engineering (robotics)!
+- 👀 I’m interested in software engineering & data science!
 - 🏀 I'm a big fan of the Boston Celtics!
-- 🌱 I’m currently learning javascript & C++ & Python.
-- 💞️ I’m looking to collaborate with the University of Illinois Urbana-Champaign
+- 🌱 I’m currently learning javascript & C++ & Python & Java.
+- 💞️ I’m studying at the University of Illinois Urbana-Champaign.
 - 📫 How to reach me: minseo.apelles.kim@gmail.com
 
 <!---
