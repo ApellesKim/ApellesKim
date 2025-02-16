@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ApellesKim
-- 👀 I’m interested in software engineering & data science!
-- 🏀 I'm a big fan of the Boston Celtics!
-- 🌱 I’m currently learning javascript & C++ & Python & Java.
-- 💞️ I’m studying at the University of Illinois Urbana-Champaign.
+- 👀 I’m interested in full-stack development, AI, data analysis..
+- 🌱 My Skills : javascript, C++, Python, Java, React, Flask, Tkinter, etc..
+- 💞️ I’m a freshman at the University of Illinois Urbana-Champaign.
 - 📫 How to reach me: minseo.apelles.kim@gmail.com
 
 <!---
